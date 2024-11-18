@@ -1,0 +1,7 @@
+torch
+torchvision
+fastai
+opencv-python
+numpy
+console_progressbar
+scipy
